@@ -22,4 +22,4 @@ It's aimed at everyday users as much as power users.
 3. Launch the main executable file or follow the setup guide.
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
